@@ -1,6 +1,6 @@
 ## ✅ Projeto Jquery - Dashboard
 
- O objetivo do projeto Dashboard é realizar requisições assíncronas utilizando o Ajax com Jquery, o jquery torna as requisições assíncronas muito mais fáceis sendo assim você tem que digitar menos linhas de código para obter o mesmo resultado com Ajax puro, e hoje como tempo e dinheiro Jquery se torna uma poderosa ferramenta para os Devs.
+ O objetivo do projeto Dashboard é realizar requisições assíncronas utilizando o Ajax com Jquery, o jquery torna as requisições assíncronas muito mais fáceis sendo assim você tem que digitar menos linhas de código para obter o mesmo resultado com Ajax puro, além de tornar as requisições assíncronas mais fáceis o Jquery disponibiliza várias outras funções que tornam o Desenvolvimento mais fácil e ágil.
 
 ## 📁 Acesso ao projeto
 
